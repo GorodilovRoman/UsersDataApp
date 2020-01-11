@@ -1,0 +1,13 @@
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\bin\Debug\UsersDataApp.exe.config
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\bin\Debug\UsersDataApp.exe
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\bin\Debug\UsersDataApp.pdb
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.csprojAssemblyReference.cache
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Main.resources
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Properties.Resources.resources
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.csproj.GenerateResource.cache
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.exe
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.pdb
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Log_in.resources
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Create_new_user.resources
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Show_all_users.resources
+D:\Моя папка\Politechnika Krakowska\GitHub\UsersDataApp\UsersDataApp\obj\Debug\UsersDataApp.Show_user_details.resources
